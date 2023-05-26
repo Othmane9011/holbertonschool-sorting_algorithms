@@ -57,7 +57,7 @@ int _split(int *arr, int min, int last, size_t size)
  * @arr: arr
  * @min: min
  * @last: last
- * size: size
+ * @size: size
  * Return: Nothing
  */
 void quick_sort_array(int *arr, int min, int last, size_t size)
